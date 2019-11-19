@@ -49,6 +49,16 @@ Para la ejecución del programa se debe hacer en la shell el siguiente comando
 python "__main__.py"
 ```
 
+## Screenshoots
+
++ Ventana de la dieta
+![Ventana de la dieta](img/v_dieta.png)
+
++ Ventana de la información del algoritmo
+![Ventana de información del algoritmo](img/v_info_algo.png)
+
++ Ventana de información nutricional recomendada
+![Ventana de información nutricional](img/v_info_nutri.png)
 
 
 ## Dependecias
